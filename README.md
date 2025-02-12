@@ -22,6 +22,7 @@ Handles KeyboardInterrupt to allow the user to stop monitoring with **Ctrl + C**
 Any others unexpected errors and prints the error message with error codes
 
 ## Images
+![](CPU_usage_screenshot.png)
 
 
 
