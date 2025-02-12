@@ -21,3 +21,7 @@ You can modify the threshold by passing a different value in the function call i
 Handles KeyboardInterrupt to allow the user to stop monitoring with **Ctrl + C**.
 Any others unexpected errors and prints the error message with error codes
 
+## Images
+
+
+
