@@ -22,7 +22,8 @@ Handles KeyboardInterrupt to allow the user to stop monitoring with **Ctrl + C**
 Any others unexpected errors and prints the error message with error codes
 
 ## Images
-![](CPU_usage_screenshot.png)
+![Alt text](https://github.com/ankitanand200193/PythonAssignement/blob/b1935eb54d7a8d0ae3817888f730709c6103f929/CPU_usage_screenshot.png)
+
 
 
 
